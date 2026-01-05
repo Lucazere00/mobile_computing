@@ -8,9 +8,9 @@ Questo perché il repository utilizza Git LSF per gestire asset di dimensioni su
 Scaricando il gioco come ZIP, tali asset non vengono scaricati correttamente, causando errori o contenuti mancanti in Unity.
 
 Per scaricare correttamente il progetto è necessario:
-	1.	Clonare il repository utilizzando un client Git (es. SourceTree);
-	2.	Assicurarsi che Git LFS sia attivo;
-	3.	Aprire il progetto clonato direttamente tramite Unity Hub.
+1) Clonare il repository utilizzando un client Git (es. SourceTree);
+2) Assicurarsi che Git LFS sia attivo;
+3) Aprire il progetto clonato direttamente tramite Unity Hub.
 
 In questo modo tutti gli asset vengono scaricati e importati correttamente.
 

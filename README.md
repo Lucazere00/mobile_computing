@@ -25,4 +25,4 @@ La collaborazione del team è avvenuta tramite Unity Version Control (ex Plastic
 
 Per quanto riguarda la versione iOS, non è stato possibile generare il file .ipa in quanto l’account Apple utilizzato non è iscritto al programma Apple Developer annuale.
 L’applicazione è stata quindi installata ed eseguita in modalità di test, con una validità di 7 giorni, come previsto dalle limitazioni dell’account gratuito.
-Di seguito è mostrato una clip della versione iOS del gioco.
+Di seguito il link drive per la clip: https://drive.google.com/file/d/1LUCkO8pl-KqyhutlaLPXm85fowxFJaDJ/view?usp=sharing

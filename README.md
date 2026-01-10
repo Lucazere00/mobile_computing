@@ -1,4 +1,4 @@
-# Car Rush
+# Race
 
 Il videogioco è stato sviluppato con Unity, compatibile sia con iOS che Android.
 L'obiettivo del gioco è completare il percorso nel minor tempo possibile.
